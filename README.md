@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mourya__rashmi" target="blank"><img src="https://img.shields.io/twitter/follow/mourya__rashmi?logo=twitter&style=for-the-badge" alt="mourya__rashmi" /></a> </p>
 
-- 📫 How to reach me **rashmimourya@outlook.com**
+- 📫 How to reach me **rashmimourya1507@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,11 +32,11 @@
 <a href="https://www.codechef.com/users/rashmi_mourya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rashmi_mourya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmi_mourya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rashmi_mourya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ry1wzog1fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ry1wzog1fb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ry1wzog1fb" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rashmi_mourya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rashmi_mourya" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/rashmi_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rashmi_mourya" height="30" width="40" /></a>
-<a href="https://discord.gg/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rashmimourya" height="30" width="40" /></a>
+<a href="https://discord.gg/44EQwEewTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rashmimourya" height="30" width="40" /></a>
 <a href="/rashmimourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rashmimourya" height="30" width="40" /></a>
 </p>
 
